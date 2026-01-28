@@ -1,0 +1,7 @@
+{
+  "name": "Railway AI Safety Monitor",
+  "description": "Professional AI-driven railway accident detection system for control room operators, featuring live detection overlays, system status tracking, and automated alert logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
